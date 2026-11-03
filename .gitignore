@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native builds
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Secrets - never commit these
+.env
+.env.*
+!.env.example
+google-services.json
+GoogleService-Info.plist
+serviceAccountKey.json
+
+# Firebase
+.firebase/
+firebase-debug.log
+functions/node_modules/
+functions/lib/
+
+# Logs and OS files
+npm-debug.*
+yarn-error.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
