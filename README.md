@@ -19,8 +19,9 @@ Every exercise in a plan comes from our **evidence library**, a curated set of s
 | 3 | Plan | Sees the weekly routine and today's meals as cards; taps an exercise to see the study behind it |
 | 4 | Log | Marks a workout as done and records today's weight |
 | 5 | Progress | Sees the weight-over-time chart and the week's summary |
+| 6 | Exercise detail | Sees how to do an exercise and the study behind it ("Why this?") |
 
-The full scope, architecture and safety rules are in [docs/PROJECT.md](docs/PROJECT.md).
+Low-fidelity sketches of every screen are in [docs/design/](docs/design/README.md). The full scope, architecture and safety rules are in [docs/PROJECT.md](docs/PROJECT.md).
 
 ## Tech stack
 
@@ -79,6 +80,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first commit. In short:
 | docs/USE-CASES.md (issue #11) | You need to know exactly what the app must do |
 | [docs/DEFENSE.md](docs/DEFENSE.md) | We prepare the final defense in English |
 | [docs/first-issues.md](docs/first-issues.md) | You want to know who does what first |
+| [docs/design/](docs/design/README.md) | You build a screen and need its sketch |
 | [CHANGELOG.md](CHANGELOG.md) | You want to see what changed in each release |
 
 ## Disclaimer
