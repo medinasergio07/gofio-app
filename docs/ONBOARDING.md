@@ -48,8 +48,6 @@ If it asks for a password, use a [personal access token](https://github.com/sett
 
 ## 5. Run the app
 
-Once issue #2 (Expo skeleton) is merged:
-
 ```bash
 npm install
 npx expo start
@@ -57,6 +55,14 @@ npx expo start
 
 Scan the QR code with Expo Go. Your phone and computer must be on the same Wi-Fi.
 On the university network, use `npx expo start --tunnel` if the QR code doesn't connect.
+
+Before pushing, check that the code compiles exactly as CI will:
+
+```bash
+npm run typecheck
+```
+
+To add a library, always use `npx expo install <package>` (not `npm install`): it picks the version that matches our Expo SDK.
 
 ## 6. Your first contribution (practice run)
 

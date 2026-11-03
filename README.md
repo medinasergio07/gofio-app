@@ -58,8 +58,6 @@ npx expo start
 
 Scan the QR code with **Expo Go** on your phone to run the app.
 
-> The Expo app is created in issue #2. Until it is merged, `npm install` has nothing to install.
-
 ## How we work
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first commit. In short:
