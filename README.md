@@ -76,7 +76,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before your first commit. In short:
 | [docs/ONBOARDING.md](docs/ONBOARDING.md) | You are setting up your computer or making your first contribution |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | You need the Git workflow, branch names or commit rules |
 | [docs/PROJECT.md](docs/PROJECT.md) | You need the scope, architecture, roles or phases |
-| docs/USE-CASES.md (issue #11) | You need to know exactly what the app must do |
+| [docs/USE-CASES.md](docs/USE-CASES.md) | You need to know exactly what the app must do |
 | [docs/DEFENSE.md](docs/DEFENSE.md) | We prepare the final defense in English |
 | [docs/first-issues.md](docs/first-issues.md) | You want to know who does what first |
 | [CHANGELOG.md](CHANGELOG.md) | You want to see what changed in each release |
